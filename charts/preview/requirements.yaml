@@ -2,11 +2,11 @@
 dependencies:
 - alias: expose
   name: exposecontroller
-  repository: https://chartmuseum.build.cd.jenkins-x.io
+  repository: https://chartmuseum.carzone.cn
   version: 2.3.56
 - alias: cleanup
   name: exposecontroller
-  repository: https://chartmuseum.build.cd.jenkins-x.io
+  repository: https://chartmuseum.carzone.cn
   version: 2.3.56
 - alias: preview
   name: demo
